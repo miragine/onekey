@@ -1,0 +1,2 @@
+# onekey
+one key script
